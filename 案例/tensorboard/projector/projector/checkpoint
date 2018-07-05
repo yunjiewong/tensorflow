@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yunjiewang/\346\241\210\344\276\213/tensorboard/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "/Users/yunjiewang/\346\241\210\344\276\213/tensorboard/projector/projector/a_model.ckpt-1001"
